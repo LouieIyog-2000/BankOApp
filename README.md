@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 # Course:
 Bachelor of Science in Computer Science
 # Subject:
@@ -11,11 +22,14 @@ A
  Nagtahan, Sampaloc, Manila, Philippines
  College of Arts and Sciences
  ITE Deaprtment.
- # Description: 
+ # Professor:
+ Jefferson A. Costales
+
+
+
  
  
- #
  
  
- #
+ 
 
