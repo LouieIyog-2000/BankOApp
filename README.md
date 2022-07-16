@@ -1,3 +1,5 @@
+# Description of the Project
+This is Bank O Application created using Android Studio, Firebase and Java Programming Language
 # Log In
 ![login](https://user-images.githubusercontent.com/81355022/179338905-5f37cd83-5abd-408a-ac3b-78387a191abe.jpg)
 # Registration
