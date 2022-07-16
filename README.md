@@ -39,12 +39,14 @@ MOBAPLEC
 # Section:
 A
 # School:
- Eulogio "Amang" Rodriguez Institute of Science and Technology
- Nagtahan, Sampaloc, Manila, Philippines
- College of Arts and Sciences
- ITE Deaprtment.
- # Professor:
- Jefferson A. Costales
+Eulogio "Amang" Rodriguez Institute of Science and Technology
+Nagtahan, Sampaloc, Manila, Philippines
+College of Arts and Sciences
+ITE Deaprtment.
+# Professor:
+Jefferson A. Costales
+# Demo Video
+
 
 
 
