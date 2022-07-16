@@ -3,6 +3,14 @@
 # Registration
 ![register](https://user-images.githubusercontent.com/81355022/179339006-c98d6b62-2938-4e32-a0a3-baa4b0bc2309.jpg)
 # Home
+# Cash in
+
+# Cash in History
+
+# Cash out
+
+# Cash out History
+
 
 
 
