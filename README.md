@@ -49,11 +49,11 @@ ITE Deaprtment.
 # Professor:
 Jefferson A. Costales
 # Developer
-Nicole Bermillo,
+Nicole Bermillo
 
-Ricardo Garcia,
+Ricardo Garcia
 
-Mar Louie Iyog,
+Mar Louie Iyog
 
 Saturnino Anim
 # Demo Video
