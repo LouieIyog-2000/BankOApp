@@ -49,9 +49,9 @@ ITE Deaprtment.
 # Professor:
 Jefferson A. Costales
 # Developer
-Nicole Bermillo 
-Ricardo Garcia
-Mar Louie Iyog
+Nicole Bermillo,
+Ricardo Garcia,
+Mar Louie Iyog,
 Saturnino Anim
 # Demo Video
 https://youtu.be/1o1Z_6mMCDU
